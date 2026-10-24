@@ -24,6 +24,10 @@ A generic Viterbi decoder that uses log probabilities to find the most likely st
 
 A chart parser for binary context-free grammars in Chomsky Normal Form. It constructs one parse tree when a sentence is recognized. Unary rules, epsilon rules, and probabilistic parse ranking are outside the current implementation.
 
+## Review status
+
+Five small smoke tests passed for core behavior in the current private implementation. These tests are not a benchmark and do not establish real-world performance. The code review identifies additional hardening and documentation work before the implementation should be treated as complete.
+
 ## Engineering choices
 
 - Modular Python code organized by technique.
