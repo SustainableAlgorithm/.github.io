@@ -19,6 +19,10 @@ The full working repository is private during review. A public project summary i
 
 A privacy-conscious image-classification project using image preprocessing, HOG feature extraction, an SVM classifier, and evaluation metrics. This is an independently written generic non-person image classification demonstration; it does not identify individuals.
 
+### [Machine Learning Model Deployment](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-ml-model-deployment.md)
+
+A Flask application serving a locally trained logistic-regression pipeline for an educational Titanic survival-probability demo. Demonstrates preprocessing, model serialization, form validation, and application testing. The dataset and trained artifact are not published.
+
 ## More projects
 
 ### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
