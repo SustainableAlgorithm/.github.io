@@ -25,6 +25,10 @@ An applied machine-learning project comparing PCA, t-SNE, and t-SNE after PCA on
 
 Independent Python demonstrations of sentiment classification, unigram and n-gram language models, Hidden Markov Model Viterbi decoding, and CKY parsing. The public page describes the methods; the code is maintained privately during review, and no unverified performance claims are made.
 
+### [Neural Networks for Imbalanced Binary Classification](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-neural-networks.md)
+
+A binary-classification project exploring a Keras neural network, stratified splitting, categorical preprocessing, class weighting, and the precision-recall tradeoff. Metrics recorded in the assignment notebook are clearly distinguished from independently reproduced results.
+
 ---
 
 *Portfolio in progress.*
