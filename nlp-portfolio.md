@@ -26,7 +26,7 @@ A chart parser for binary context-free grammars in Chomsky Normal Form. It const
 
 ## Review status
 
-Five small smoke tests passed for core behavior in the current private implementation. These tests are not a benchmark and do not establish real-world performance. The code review identifies additional hardening and documentation work before the implementation should be treated as complete.
+Eight small smoke tests passed for core behavior in the current private implementation. These tests are not a benchmark and do not establish real-world performance. The code review identifies additional hardening and documentation work before the implementation should be treated as complete.
 
 ## Engineering choices
 
