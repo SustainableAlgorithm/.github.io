@@ -17,7 +17,9 @@ The full working repository is private during review. A public project summary i
 
 ## More projects
 
-Additional projects and code samples will be added as they are reviewed and documented.
+### [Natural Language Processing Portfolio](https://github.com/SustainableAlgorithm/.github.io/blob/main/nlp-portfolio.md)
+
+Independent Python demonstrations of sentiment classification, unigram and n-gram language models, Hidden Markov Model Viterbi decoding, and CKY parsing. The public page describes the methods; the code is maintained privately during review, and no unverified performance claims are made.
 
 ---
 
