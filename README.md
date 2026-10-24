@@ -43,6 +43,10 @@ These earlier public repositories show my progression through applied computing 
 - [BMI Calculator](https://github.com/SustainableAlgorithm/BMI-Calc) — simple calculator.
 - [Leap Year](https://github.com/SustainableAlgorithm/LeapYear) — date-logic exercise.
 
+### [Reproducible Monthly Trend Analysis](public-code-examples/monthly-crime-trends/README.md)
+
+A small, independently written Python example with synthetic records, chronological monthly aggregation, explicit invalid-date handling, and automated tests. This is a code sample employers can inspect and run without access to restricted datasets.
+
 ## How I approach projects
 
 - **Reproducibility:** make data preparation, model evaluation, and assumptions explicit.
