@@ -15,6 +15,10 @@ A research project exploring monthly crime-count forecasting across Phoenix poli
 
 The full working repository is private during review. A public project summary is available at the link above.
 
+### [Computer Vision: Image Classification](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-computer-vision.md)
+
+A privacy-conscious image-classification project using image preprocessing, HOG feature extraction, an SVM classifier, and evaluation metrics. This is an independently written generic non-person image classification demonstration; it does not identify individuals.
+
 ## More projects
 
 ### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
