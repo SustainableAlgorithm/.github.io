@@ -1,54 +1,61 @@
-# SustainableAlgorithm — Data Science Portfolio
+# SustainableAlgorithm | Data Science Portfolio
 
-I build data science and applied computing projects focused on finding patterns in complex data, evaluating models carefully, and communicating results clearly.
+**Katlin Kagan · Data Science · Applied Machine Learning · Responsible Analytics**
 
-## Featured project
+I use data science to find patterns in complex data, build and evaluate models, and communicate what the results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
-### [Phoenix Crime Hotspot Forecasting](https://github.com/SustainableAlgorithm/.github.io/blob/main/phoenix-crime-hotspot-forecasting.md)
+**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md)
 
-A research project exploring monthly crime-count forecasting across Phoenix police-grid areas using Python, Random Forest regression, and SARIMAX time-series models.
+## Featured work
 
-- **Methods:** temporal feature engineering, monthly aggregation, model validation, regression metrics, and Top-5 hotspot-overlap evaluation.
+### [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md)
+A research project exploring monthly crime-count forecasting across Phoenix police-grid areas using Random Forest regression and SARIMAX time-series models.
+
+- **Methods:** temporal feature engineering, monthly aggregation, holdout evaluation, regression metrics, and Top-5 hotspot overlap.
 - **Tools:** Python, pandas, NumPy, scikit-learn, statsmodels, pytest.
-- **Responsible data science:** documents limitations of historical crime data, privacy considerations, and the risks of reproducing structural inequities.
-- **Project status:** preliminary results are clearly labeled; validation and metric reconciliation remain in progress.
+- **What I emphasize:** validation discipline, honest reporting of preliminary results, privacy, and the risks of historical-data bias.
+- **Status:** preliminary results are documented; reconciliation with the original notebook and final report remains in progress.
 
-The full working repository is private during review. A public project summary is available at the link above.
+### [Undergraduate Crime Statistics: Phoenix Monthly Trends](undergraduate-crime-statistics.md)
+An early Python/pandas project that explored monthly incident counts and visualization. It is a precursor to the later crime-forecasting work. Source CSVs are not published; data-quality checks and a one-record discrepancy with a manually entered notebook series are documented.
 
-### [Computer Vision: Image Classification](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-computer-vision.md)
+## Machine learning and AI
 
-A privacy-conscious image-classification project using image preprocessing, HOG feature extraction, an SVM classifier, and evaluation metrics. This is an independently written generic non-person image classification demonstration; it does not identify individuals.
+- [DTSC 670: Foundations of Machine Learning](dtsc670-foundations-of-machine-learning.md) — regression, classification, Ridge regularization, SVMs, and polynomial features.
+- [Computer Vision: Image Classification](dtsc680-computer-vision.md) — image preprocessing, HOG features, SVM classification, and evaluation.
+- [Neural Networks for Imbalanced Binary Classification](dtsc680-neural-networks.md) — preprocessing, class weighting, and the precision-recall tradeoff.
+- [Dimensionality Reduction with PCA and t-SNE](dtsc680-pca-tsne.md) — comparison of dimensionality-reduction approaches.
+- [Machine Learning Model Deployment](dtsc680-ml-model-deployment.md) — an educational Flask model-serving example.
+- [Natural Language Processing Portfolio](nlp-portfolio.md) — sentiment classification, n-gram models, HMM/Viterbi decoding, and CKY parsing.
 
-### [Machine Learning Model Deployment](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-ml-model-deployment.md)
+## Data management and engineering
 
-A Flask application serving a locally trained logistic-regression pipeline for an educational Titanic survival-probability demo. Demonstrates preprocessing, model serialization, form validation, and application testing. The dataset and trained artifact are not published.
+- [DTSC 660: Data and Database Management with SQL](dtsc660-sql-database-management.md) — PostgreSQL, relational schema design, aggregation, joins, data cleaning, and Python/pandas integration.
 
-### [DTSC 670: Foundations of Machine Learning](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc670-foundations-of-machine-learning.md)
+## Earlier programming projects
 
-Five independently written projects covering apartment-price regression, census-income classification, handwritten-digit classification, Ridge regression, and polynomial regression. Original course notebooks and datasets are excluded; results are not claimed until data-dependent experiments are validated.
+These earlier public repositories show my progression through applied computing and foundational programming. They are separate from the graduate-level project showcases.
 
-### [DTSC 660: Data and Database Management with SQL](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc660-sql-database-management.md)
+- [Collection of Beginner Code](https://github.com/SustainableAlgorithm/Collection-of-Beginner-Code) — combined programming exercises.
+- [Job Salary](https://github.com/SustainableAlgorithm/JobSalary) — input validation and minimum/maximum salary calculations.
+- [Trek Counter](https://github.com/SustainableAlgorithm/TrekCounter) — programming project.
+- [Olympic Rings](https://github.com/SustainableAlgorithm/Olympic-Rings) — Java graphics/programming exercise.
+- [BMI Calculator](https://github.com/SustainableAlgorithm/BMI-Calc) — simple calculator.
+- [Leap Year](https://github.com/SustainableAlgorithm/LeapYear) — date-logic exercise.
 
-PostgreSQL querying, relational schema design, aggregation, joins, data cleaning, and Python/pandas database integration. Public examples use synthetic data; original course submissions and datasets are excluded.
+## How I approach projects
 
-### [Undergraduate Crime Statistics: Phoenix Monthly Trends](https://github.com/SustainableAlgorithm/.github.io/blob/main/undergraduate-crime-statistics.md)
+- **Reproducibility:** make data preparation, model evaluation, and assumptions explicit.
+- **Evaluation discipline:** distinguish training, validation, and test results; don't present unverified results as final.
+- **Responsible use:** consider privacy, data quality, bias, and the consequences of deploying analytical systems.
+- **Communication:** explain methods and limitations in language that non-specialists can follow.
 
-An early Python/pandas project exploring monthly Phoenix crime incident counts, date parsing, aggregation, and visualization. It forms a precursor to later crime-data forecasting work; the original notebook and large datasets are not published.
+## Code availability and project status
 
-## More projects
+The course-inspired implementations and original academic materials are kept private while they are reviewed, tested, and checked for data and course-material restrictions. The public pages are project summaries, not claims that every described implementation is already fully reproduced or production-ready. Some summaries include independently written starter examples; data-dependent results are only stated when explicitly documented.
 
-### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
-
-An applied machine-learning project comparing PCA, t-SNE, and t-SNE after PCA on a penguins dataset, with preprocessing choices, exploratory metrics, and limitations documented.
-
-### [Natural Language Processing Portfolio](https://github.com/SustainableAlgorithm/.github.io/blob/main/nlp-portfolio.md)
-
-Independent Python demonstrations of sentiment classification, unigram and n-gram language models, Hidden Markov Model Viterbi decoding, and CKY parsing. The public page describes the methods; the code is maintained privately during review, and no unverified performance claims are made.
-
-### [Neural Networks for Imbalanced Binary Classification](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-neural-networks.md)
-
-A binary-classification project exploring a Keras neural network, stratified splitting, categorical preprocessing, class weighting, and the precision-recall tradeoff. Metrics recorded in the assignment notebook are clearly distinguished from independently reproduced results.
+For a hiring team interested in a particular implementation, please contact me through my GitHub profile to discuss a focused code review. Do not assume every private repository is ready for unrestricted release.
 
 ---
 
-*Portfolio in progress.*
+*Portfolio in progress. Project status and validation limitations are stated on the relevant project pages.*
