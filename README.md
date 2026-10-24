@@ -31,6 +31,10 @@ Five independently written projects covering apartment-price regression, census-
 
 PostgreSQL querying, relational schema design, aggregation, joins, data cleaning, and Python/pandas database integration. Public examples use synthetic data; original course submissions and datasets are excluded.
 
+### [Undergraduate Crime Statistics: Phoenix Monthly Trends](https://github.com/SustainableAlgorithm/.github.io/blob/main/undergraduate-crime-statistics.md)
+
+An early Python/pandas project exploring monthly Phoenix crime incident counts, date parsing, aggregation, and visualization. It forms a precursor to later crime-data forecasting work; the original notebook and large datasets are not published.
+
 ## More projects
 
 ### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
