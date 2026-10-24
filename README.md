@@ -27,6 +27,10 @@ A Flask application serving a locally trained logistic-regression pipeline for a
 
 Five independently written projects covering apartment-price regression, census-income classification, handwritten-digit classification, Ridge regression, and polynomial regression. Original course notebooks and datasets are excluded; results are not claimed until data-dependent experiments are validated.
 
+### [DTSC 660: Data and Database Management with SQL](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc660-sql-database-management.md)
+
+PostgreSQL querying, relational schema design, aggregation, joins, data cleaning, and Python/pandas database integration. Public examples use synthetic data; original course submissions and datasets are excluded.
+
 ## More projects
 
 ### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
