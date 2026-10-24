@@ -23,6 +23,10 @@ A privacy-conscious image-classification project using image preprocessing, HOG 
 
 A Flask application serving a locally trained logistic-regression pipeline for an educational Titanic survival-probability demo. Demonstrates preprocessing, model serialization, form validation, and application testing. The dataset and trained artifact are not published.
 
+### [DTSC 670: Foundations of Machine Learning](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc670-foundations-of-machine-learning.md)
+
+Five independently written projects covering apartment-price regression, census-income classification, handwritten-digit classification, Ridge regression, and polynomial regression. Original course notebooks and datasets are excluded; results are not claimed until data-dependent experiments are validated.
+
 ## More projects
 
 ### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
