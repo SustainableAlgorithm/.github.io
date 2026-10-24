@@ -17,6 +17,10 @@ The full working repository is private during review. A public project summary i
 
 ## More projects
 
+### [Dimensionality Reduction with PCA and t-SNE](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc680-pca-tsne.md)
+
+An applied machine-learning project comparing PCA, t-SNE, and t-SNE after PCA on a penguins dataset, with preprocessing choices, exploratory metrics, and limitations documented.
+
 ### [Natural Language Processing Portfolio](https://github.com/SustainableAlgorithm/.github.io/blob/main/nlp-portfolio.md)
 
 Independent Python demonstrations of sentiment classification, unigram and n-gram language models, Hidden Markov Model Viterbi decoding, and CKY parsing. The public page describes the methods; the code is maintained privately during review, and no unverified performance claims are made.
