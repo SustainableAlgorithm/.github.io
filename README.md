@@ -38,6 +38,7 @@ An early Python/pandas project that explored monthly incident counts and visuali
 - [Health Club Relational Algebra & SQL Reflection](health-club-relational-algebra-sql/README.md) — ACO 320 project using relational algebra and exploratory SQL reflection queries to analyze membership, trainer contracts, and class schedules.
 - [ACO 330: Computer Networking](aco330-computer-networking/README.md) — six-homework archive covering network fundamentals, HTTP, TCP/UDP, IP addressing and forwarding, routing algorithms, ARP, and parity-based error detection.
 - [IFT 410: Big Data Tools and Practices](ift410-big-data-tools/README.md) — Python and pandas data preparation, classification, regression, clustering, model evaluation, PySpark, Hadoop, Spark SQL, ETL, and collaborative filtering.
+- [Crime in Phoenix in a Post-Pandemic World](crime-in-phoenix-post-pandemic/README.md) — ACO 423 research project analyzing monthly Phoenix crime incidents from May 2020 through August 2022 using Python, pandas, and statistical trend analysis.
 
 - [DTSC 660: Data and Database Management with SQL](dtsc660-sql-database-management.md) — PostgreSQL, relational schema design, aggregation, joins, data cleaning, and Python/pandas integration.
 - [SAS Programming Foundations](sas-programming-foundations.md) — undergraduate SAS examples covering raw-data ingestion, delimited files, variable attributes, date informats/formats, and dataset inspection.
