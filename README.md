@@ -41,6 +41,8 @@ An early Python/pandas project that explored monthly incident counts and visuali
 - [DTSC 660: Data and Database Management with SQL](dtsc660-sql-database-management.md) — PostgreSQL, relational schema design, aggregation, joins, data cleaning, and Python/pandas integration.
 - [SAS Programming Foundations](sas-programming-foundations.md) — undergraduate SAS examples covering raw-data ingestion, delimited files, variable attributes, date informats/formats, and dataset inspection.
 
+- [ACO 499: Software Development Internship](aco499-software-development-internship/README.md) — two-semester Java/JavaFX and XML customization work on educational database applications, including DesignDB and IntroDB.
+
 ## Earlier programming projects
 
 These earlier public repositories show my progression through applied computing and foundational programming. They are separate from the graduate-level project showcases.
