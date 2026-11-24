@@ -4,7 +4,7 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what the results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
-**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md) · [ACO 494 Reinforcement Learning](aco494-pokemon-reinforcement-learning.md) · [Erlang Flight Data Analysis](erlang-flight-data-analysis/README.md) · [SAS Programming Foundations](sas-programming-foundations.md)
+**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md) · [ACO 494 Reinforcement Learning](aco494-pokemon-reinforcement-learning.md) · [Erlang Flight Data Analysis](erlang-flight-data-analysis/README.md) · [Prolog Flight Data Analysis](prolog-flight-data-analysis/README.md) · [SAS Programming Foundations](sas-programming-foundations.md)
 
 ## Featured work
 
@@ -33,6 +33,7 @@ An early Python/pandas project that explored monthly incident counts and visuali
 ## Data management and engineering
 
 - [Erlang Flight Data Analysis](erlang-flight-data-analysis/README.md) — ACO 240 coursework using Erlang maps, tuples, recursion, pattern matching, and aggregation to analyze airline, airport, and flight-date records.
+- [Prolog Flight Data Analysis](prolog-flight-data-analysis/README.md) — ACO 240 relational flight database and five declarative queries covering routes, airline schedules, longest delays, airport delay counts, and on-time percentages.
 
 - [DTSC 660: Data and Database Management with SQL](dtsc660-sql-database-management.md) — PostgreSQL, relational schema design, aggregation, joins, data cleaning, and Python/pandas integration.
 - [SAS Programming Foundations](sas-programming-foundations.md) — undergraduate SAS examples covering raw-data ingestion, delimited files, variable attributes, date informats/formats, and dataset inspection.
