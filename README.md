@@ -4,7 +4,7 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what the results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
-**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md)
+**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md) · [SAS Programming Foundations](sas-programming-foundations.md)
 
 ## Featured work
 
@@ -31,6 +31,7 @@ An early Python/pandas project that explored monthly incident counts and visuali
 ## Data management and engineering
 
 - [DTSC 660: Data and Database Management with SQL](dtsc660-sql-database-management.md) — PostgreSQL, relational schema design, aggregation, joins, data cleaning, and Python/pandas integration.
+- [SAS Programming Foundations](sas-programming-foundations.md) — undergraduate SAS examples covering raw-data ingestion, delimited files, variable attributes, date informats/formats, and dataset inspection.
 
 ## Earlier programming projects
 
