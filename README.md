@@ -4,7 +4,7 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what the results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
-**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md) · [SAS Programming Foundations](sas-programming-foundations.md)
+**Start here:** [Phoenix Crime Hotspot Forecasting](phoenix-crime-hotspot-forecasting.md) · [Undergraduate Crime Statistics](undergraduate-crime-statistics.md) · [DTSC 670 Machine Learning](dtsc670-foundations-of-machine-learning.md) · [ACO 494 Reinforcement Learning](aco494-pokemon-reinforcement-learning.md) · [SAS Programming Foundations](sas-programming-foundations.md)
 
 ## Featured work
 
@@ -20,6 +20,8 @@ A research project exploring monthly crime-count forecasting across Phoenix poli
 An early Python/pandas project that explored monthly incident counts and visualization. It is a precursor to the later crime-forecasting work. Source CSVs are not published; data-quality checks and a one-record discrepancy with a manually entered notebook series are documented.
 
 ## Machine learning and AI
+
+- [ACO 494: Pokémon Battles in Reinforcement Learning](aco494-pokemon-reinforcement-learning.md) — collaborative literature review and presentation comparing RL approaches including Q-learning, SARSA, actor-critic/PPO, DQN, DDPG, and opponent-adaptive learning.
 
 - [DTSC 670: Foundations of Machine Learning](dtsc670-foundations-of-machine-learning.md) — regression, classification, Ridge regularization, SVMs, and polynomial features.
 - [Computer Vision: Image Classification](dtsc680-computer-vision.md) — image preprocessing, HOG features, SVM classification, and evaluation.
