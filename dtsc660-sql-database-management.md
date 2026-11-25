@@ -30,4 +30,4 @@ PostgreSQL · SQL · Python · pandas · SQLAlchemy · relational modeling · da
 
 The original course SQL submissions, datasets, screenshots, and database exports are not included in the public portfolio. Examples use synthetic rows or local user-supplied files. The working code remains private during review.
 
-These are starter demonstrations. The SQL examples have not been tested against your course's original databases, and the Python database workflow requires a configured PostgreSQL instance. No claims are made about performance or data-quality improvements without a documented run.
+These are starter demonstrations. The SQL examples have not been tested against original databases, and the Python database workflow requires a configured PostgreSQL instance. No claims are made about performance or data-quality improvements without a documented run.
